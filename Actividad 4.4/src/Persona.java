@@ -1,7 +1,8 @@
+
 public class Persona {
-    protected String numeroDeTelefono;
-    public Persona(String numeroDeTelefono){
-        super();
+    private String numeroDeTelefono;
+
+    public Persona(String numeroDeTelefono) {
         this.numeroDeTelefono = numeroDeTelefono;
     }
 
